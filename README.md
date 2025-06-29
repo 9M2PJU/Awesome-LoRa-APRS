@@ -7,14 +7,9 @@
 ## 📁 Contents
 
 * [Projects](#projects-section)
-* [Firmware](#projects-section) *(merged with Projects)*
 * [Hardware](#hardware-section)
-* [Gateways](#gateways-section)
-* [Trackers](#trackers-section)
 * [Software & Tools](#software--tools-section)
-* [Protocols & Specs](#protocols--specs-section)
 * [Communities](#communities-section)
-* [Tutorials & Articles](#tutorials--articles-section)
 * [Contributing](#contributing-section)
 
 ---
@@ -23,13 +18,11 @@
 
 ## 🚀 Projects
 
+* [CA2RXU LoRa APRS Tracker](https://github.com/richonguzman/LoRa_APRS_Tracker) – LoRa APRS Tracker with Tx and Rx capabilities, Messages, Wx, Winlink and more...
+* [CA2RXU LoRa APRS iGate](https://github.com/richonguzman/LoRa_APRS_iGate) - LoRa APRS iGATE for ESP32 Based Board with Rx + Tx capabilities
 * [LoRa\_APRS\_iGate](https://github.com/lora-aprs/LoRa_APRS_iGate) – Active and well-supported ESP32 iGate with OLED and GPS support.
 * [LoRa\_APRS\_Tracker](https://github.com/lora-aprs/LoRa_APRS_Tracker) – Official ESP32-based tracker firmware.
-* [trackerjacker](https://github.com/merbanan/trackerjacker) – Experimental multi-mode APRS tracker.
 * [LightLoRaAPRS](https://github.com/lightaprs/LightLoRaAPRS) – Unified firmware for LightAPRS/LightGateway boards.
-* [qdp/LoRa\_APRS\_iGate\_TTN](https://github.com/qdp/LoRa_APRS_iGate_TTN) – Gateway bridging LoRaWAN (TTN) and APRS-IS.
-* [OZ1EKD/openmodem](https://github.com/OZ1EKD/openmodem) – APRS modem firmware for Teensy, ESP32 and more.
-* ❌ *Removed*: OE5BPA/LoRa-APRS-Gateway, dj0abr/LoRa-Modem – repo unavailable or outdated.
 
 ---
 
@@ -48,7 +41,7 @@
 * **TTGO T-DECK (LoRa + GPS)**
 * **TTGO T-ECHO**
 * **TTGO LoRa32 v2.1 (with GPS or TNC use)**
-  Available from [LilyGO](https://www.lilygo.cc) and EU store: [LilyGO EU](https://lilygo.eu)
+  Available from [LilyGO](https://www.lilygo.cc)
 
 ### RAK Wireless Modules
 
@@ -56,7 +49,7 @@
 * **WisBlock RAK19007** – WisBlock base board
 * **WisBlock RAK19003** – Alternate WisBlock base board
 * **RAK12500** – u-blox ZOE-M8Q GPS module
-  🔗 [RAK Wireless Store](https://store.rakwireless.com/) – Use discount code: `NGEQHU`
+  Available from [RAK Wireless Store](https://store.rakwireless.com/)
 
 🧹 *Suggested stack:*
 `RAK19007 or RAK19003` + `RAK4631` + `RAK12500`
@@ -78,29 +71,9 @@
 
 ### Other Boards
 
-* **QRP Labs LightTracker Plus 1.0** – [QRP Labs LightTracker Plus](https://www.qrp-labs.com/lightaprs/lightaprsplus.html)
+* **QRP Labs LightTracker Plus 1.0** – [QRP Labs LightTracker Plus](https://www.qrp-labs.com/lighttrackerplus.html)
 * **ESP32 Boards** – Generic boards for building LoRa APRS trackers
 * **OE5HWN\_MeshCom** – Custom APRS + MeshCom hardware design
-
----
-
-<a id="gateways-section"></a>
-
-## 🌍 Gateways
-
-* [LoRa\_APRS\_iGate](https://github.com/lora-aprs/LoRa_APRS_iGate)
-* [qdp/LoRa\_APRS\_iGate\_TTN](https://github.com/qdp/LoRa_APRS_iGate_TTN)
-
----
-
-<a id="trackers-section"></a>
-
-## 🚁 Trackers
-
-* [LoRa\_APRS\_Tracker](https://github.com/lora-aprs/LoRa_APRS_Tracker)
-* [trackerjacker](https://github.com/merbanan/trackerjacker)
-* [LightLoRaAPRS](https://github.com/lightaprs/LightLoRaAPRS)
-* [OpenModem](https://github.com/OZ1EKD/openmodem)
 
 ---
 
@@ -114,30 +87,12 @@
 
 ---
 
-<a id="protocols--specs-section"></a>
-
-## 📜 Protocols & Specs
-
-* [APRS Protocol Reference](https://www.tapr.org/pub_ax25.html)
-* [LoRa Modulation Basics](https://lora-developers.semtech.com/)
-
----
-
 <a id="communities-section"></a>
 
 ## 🛈 Communities
 
 * [LoRa-APRS Telegram Group](https://t.me/LoRa_APRS)
 * [r/amateurradio on Reddit](https://www.reddit.com/r/amateurradio/)
-
----
-
-<a id="tutorials--articles-section"></a>
-
-## 📚 Tutorials & Articles
-
-* [Setting up LoRa APRS iGate](https://github.com/lora-aprs/LoRa_APRS_iGate/wiki)
-* [Understanding LoRa Parameters](https://www.thethingsnetwork.org/docs/lorawan/)
 
 ---
 
