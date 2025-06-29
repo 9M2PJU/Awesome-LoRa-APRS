@@ -100,7 +100,7 @@
 
 ## 🤝 Contributing
 
-Your contributions are welcome! Please read the [contributing guide](CONTRIBUTING.md) before submitting a pull request. Help us grow this awesome list!
+Your contributions are welcome! Help us grow this awesome list!
 
 ---
 
