@@ -7,15 +7,15 @@
 ## 📁 Contents
 
 * [Projects](#projects-section)
-* [Firmware](#firmware)
+* [Firmware](#projects-section) *(merged with Projects)*
 * [Hardware](#hardware-section)
 * [Gateways](#gateways-section)
 * [Trackers](#trackers-section)
-* [Software & Tools](#software--tools)
-* [Protocols & Specs](#protocols--specs)
-* [Communities](#communities)
-* [Tutorials & Articles](#tutorials--articles)
-* [Contributing](#contributing)
+* [Software & Tools](#software--tools-section)
+* [Protocols & Specs](#protocols--specs-section)
+* [Communities](#communities-section)
+* [Tutorials & Articles](#tutorials--articles-section)
+* [Contributing](#contributing-section)
 
 ---
 
@@ -104,6 +104,8 @@
 
 ---
 
+<a id="software--tools-section"></a>
+
 ## 🛠 Software & Tools
 
 * [APRS.fi](https://aprs.fi) – Realtime APRS map viewer
@@ -112,12 +114,16 @@
 
 ---
 
+<a id="protocols--specs-section"></a>
+
 ## 📜 Protocols & Specs
 
 * [APRS Protocol Reference](https://www.tapr.org/pub_ax25.html)
 * [LoRa Modulation Basics](https://lora-developers.semtech.com/)
 
 ---
+
+<a id="communities-section"></a>
 
 ## 🛈 Communities
 
@@ -126,12 +132,16 @@
 
 ---
 
+<a id="tutorials--articles-section"></a>
+
 ## 📚 Tutorials & Articles
 
 * [Setting up LoRa APRS iGate](https://github.com/lora-aprs/LoRa_APRS_iGate/wiki)
 * [Understanding LoRa Parameters](https://www.thethingsnetwork.org/docs/lorawan/)
 
 ---
+
+<a id="contributing-section"></a>
 
 ## 🤝 Contributing
 
