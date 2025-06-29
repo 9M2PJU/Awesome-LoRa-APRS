@@ -6,11 +6,11 @@
 
 ## 📁 Contents
 
-* [Projects](#projects)
+* [Projects](#projects-section)
 * [Firmware](#firmware)
-* [Hardware](#hardware)
-* [Gateways](#gateways)
-* [Trackers](#trackers)
+* [Hardware](#hardware-section)
+* [Gateways](#gateways-section)
+* [Trackers](#trackers-section)
 * [Software & Tools](#software--tools)
 * [Protocols & Specs](#protocols--specs)
 * [Communities](#communities)
@@ -19,21 +19,21 @@
 
 ---
 
+<a id="projects-section"></a>
+
 ## 🚀 Projects
 
-* [LoRa APRS iGate by OE1ACM](https://github.com/lora-aprs/LoRa_APRS_iGate) – A feature-rich iGate firmware with OLED and GPS support.
-* [trackerjacker](https://github.com/merbanan/trackerjacker) – A powerful LoRa APRS tracker with custom configuration support.
-* [LoRa-APRS-Gateway by OE5BPA](https://github.com/OE5BPA/LoRa-APRS-Gateway) – ESP32 iGate with display, web interface, and full-featured support.
-* [dj0abr/LoRa-Modem](https://github.com/dj0abr/LoRa-modem) – Versatile modem supporting APRS digipeater, tracker, and RX iGate.
-* [RNode by markqvist](https://github.com/markqvist/RNode_Firmware) – LoRa modem supporting APRS and Meshtastic compatibility.
-* [LoRa\_APRS\_Tracker by OE1ACM](https://github.com/lora-aprs/LoRa_APRS_Tracker) – ESP32 tracker firmware with display and GPS.
-* [TTGO-T-Beam-LoRa-APRS](https://github.com/OE5BPA/TTGO-T-Beam-LoRa-APRS) – Tracker firmware for TTGO T-Beam with multiple features.
-* [OpenModem LoRa](https://github.com/armel/LoRa-APRS-OpenModem) – Lightweight open-source tracker firmware.
-* [qdp/LoRa\_APRS\_iGate\_TTN](https://github.com/qdp/LoRa_APRS_iGate_TTN) – Gateway between The Things Network and APRS-IS.
+* [LoRa\_APRS\_iGate](https://github.com/lora-aprs/LoRa_APRS_iGate) – Active and well-supported ESP32 iGate with OLED and GPS support.
+* [LoRa\_APRS\_Tracker](https://github.com/lora-aprs/LoRa_APRS_Tracker) – Official ESP32-based tracker firmware.
+* [trackerjacker](https://github.com/merbanan/trackerjacker) – Experimental multi-mode APRS tracker.
+* [LightLoRaAPRS](https://github.com/lightaprs/LightLoRaAPRS) – Unified firmware for LightAPRS/LightGateway boards.
+* [qdp/LoRa\_APRS\_iGate\_TTN](https://github.com/qdp/LoRa_APRS_iGate_TTN) – Gateway bridging LoRaWAN (TTN) and APRS-IS.
 * [OZ1EKD/openmodem](https://github.com/OZ1EKD/openmodem) – APRS modem firmware for Teensy, ESP32 and more.
-* [LightAPRS](https://www.qrp-labs.com/lightaprs/lightaprsplus.html) – Commercial tracker with LoRa + GPS support.
+* ❌ *Removed*: OE5BPA/LoRa-APRS-Gateway, dj0abr/LoRa-Modem – repo unavailable or outdated.
 
 ---
+
+<a id="hardware-section"></a>
 
 ## 🔧 Hardware
 
@@ -84,22 +84,23 @@
 
 ---
 
+<a id="gateways-section"></a>
+
 ## 🌍 Gateways
 
-* [LoRa APRS iGate](https://github.com/lora-aprs/LoRa_APRS_iGate) – Suitable for Raspberry Pi and ESP32-based devices
-* [LoRa-APRS-Gateway by OE5BPA](https://github.com/OE5BPA/LoRa-APRS-Gateway)
-* [dj0abr/LoRa-Modem](https://github.com/dj0abr/LoRa-modem)
+* [LoRa\_APRS\_iGate](https://github.com/lora-aprs/LoRa_APRS_iGate)
 * [qdp/LoRa\_APRS\_iGate\_TTN](https://github.com/qdp/LoRa_APRS_iGate_TTN)
 
 ---
 
+<a id="trackers-section"></a>
+
 ## 🚁 Trackers
 
+* [LoRa\_APRS\_Tracker](https://github.com/lora-aprs/LoRa_APRS_Tracker)
 * [trackerjacker](https://github.com/merbanan/trackerjacker)
-* [LightAPRS](https://www.qrp-labs.com/lightaprs/lightaprsplus.html)
-* [OE1ACM LoRa Tracker](https://github.com/lora-aprs/LoRa_APRS_Tracker)
-* [TTGO T-Beam Tracker](https://github.com/OE5BPA/TTGO-T-Beam-LoRa-APRS)
-* [OpenModem LoRa](https://github.com/armel/LoRa-APRS-OpenModem)
+* [LightLoRaAPRS](https://github.com/lightaprs/LightLoRaAPRS)
+* [OpenModem](https://github.com/OZ1EKD/openmodem)
 
 ---
 
