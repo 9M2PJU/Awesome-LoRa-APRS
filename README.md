@@ -85,6 +85,8 @@
 * [APRS.fi](https://aprs.fi) – Realtime APRS map viewer
 * [Direwolf](https://github.com/wb2osz/direwolf) – APRS software TNC and digipeater
 * [YAAC](http://www.ka2ddo.org/ka2ddo/YAAC.html) – APRS client and visualizer
+* [APRSdroid (NA7Q)](https://na7q.com/aprsdroid-osm/) - A fork of APRSdroid
+* [SQ2CPA LoRa APRS Mobile App](https://app.lora-aprs.pl/) - SQ2CPA LoRa APRS Mobile App
 
 ---
 
