@@ -9,6 +9,7 @@
 * [Projects](#projects-section)
 * [Hardware](#hardware-section)
 * [Software & Tools](#software--tools-section)
+* [APRS Passcode Generator](#aprs-passcode-generator)
 * [Communities](#communities-section)
 * [Contributing](#contributing-section)
 
@@ -24,6 +25,7 @@
 * [LoRa\_APRS\_Tracker](https://github.com/lora-aprs/LoRa_APRS_Tracker) – Official ESP32-based tracker firmware.
 * [LightLoRaAPRS](https://github.com/lightaprs/LightLoRaAPRS) – Unified firmware for LightAPRS/LightGateway boards.
 * [ESP32APRS_LoRa](https://github.com/nakhonthai/ESP32APRS_LoRa) - ESP32APRS LoRa is a APRS on LoRa network In that is implemented for Espressif ESP32,ESP32-S3,ESP32C3 processor.
+* [LoRa APRS SQ2CPA](https://flasher.sq2cpa.pl/) - LoRa APRS SQ2CPA firmware
 
 ---
 
@@ -87,6 +89,15 @@
 * [YAAC](http://www.ka2ddo.org/ka2ddo/YAAC.html) – APRS client and visualizer
 * [APRSdroid (NA7Q)](https://na7q.com/aprsdroid-osm/) - A fork of APRSdroid
 * [SQ2CPA LoRa APRS Mobile App](https://app.lora-aprs.pl/) - SQ2CPA LoRa APRS Mobile App
+
+---
+<a id="aprs-passcode-generator"></a>
+
+## 🛠 APRS Passcode Generator
+
+* [https://apps.magicbug.co.uk/passcode/](https://apps.magicbug.co.uk/passcode/)
+* [https://pass.hamradio.my](https://pass.hamradio.my)
+* [https://lora-aprs.pl/passcode](https://lora-aprs.pl/passcode)
 
 ---
 
