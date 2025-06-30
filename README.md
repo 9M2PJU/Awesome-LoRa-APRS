@@ -11,7 +11,6 @@
 * [Software & Tools](#software--tools-section)
 * [APRS Passcode Generator](#aprs-passcode-generator)
 * [APRS Maps](#aprs-maps)
-* [Syslog](#syslog)
 * [Communities](#communities-section)
 * [Contributing](#contributing-section)
 
