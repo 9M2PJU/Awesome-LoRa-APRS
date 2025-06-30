@@ -10,6 +10,7 @@
 * [Hardware](#hardware-section)
 * [Software & Tools](#software--tools-section)
 * [APRS Passcode Generator](#aprs-passcode-generator)
+* [APRS Maps](#aprs-maps)
 * [Communities](#communities-section)
 * [Contributing](#contributing-section)
 
@@ -54,9 +55,6 @@
 * **RAK12500** – u-blox ZOE-M8Q GPS module
   Available from [RAK Wireless Store](https://store.rakwireless.com/)
 
-🧹 *Suggested stack:*
-`RAK19007 or RAK19003` + `RAK4631` + `RAK12500`
-
 ### HELTEC Boards
 
 * **HELTEC Wireless Tracker**
@@ -93,11 +91,21 @@
 ---
 <a id="aprs-passcode-generator"></a>
 
-## 🛠 APRS Passcode Generator
+## ⚙️ APRS Passcode Generator
 
 * [https://apps.magicbug.co.uk/passcode/](https://apps.magicbug.co.uk/passcode/)
 * [https://pass.hamradio.my](https://pass.hamradio.my)
 * [https://lora-aprs.pl/passcode](https://lora-aprs.pl/passcode)
+
+---
+<a id="aprs-maps"></a>
+
+## 🗺️ APRS Maps
+
+* [APRS.fi](https://aprs.fi)
+* [9M2PJU APRS Maps](https://maps.hamradio.my)
+* [APRS.to](https://aprs.to)
+* [https://lora.ham-radio-op.net](https://lora.ham-radio-op.net/)
 
 ---
 
