@@ -20,13 +20,13 @@
 
 ## 🚀 Projects
 
-* [CA2RXU LoRa APRS Tracker](https://github.com/richonguzman/LoRa_APRS_Tracker) – LoRa APRS Tracker with Tx and Rx capabilities, Messages, Wx, Winlink and more...
-* [CA2RXU LoRa APRS iGate](https://github.com/richonguzman/LoRa_APRS_iGate) - LoRa APRS iGATE for ESP32 Based Board with Rx + Tx capabilities
-* [LoRa\_APRS\_iGate](https://github.com/lora-aprs/LoRa_APRS_iGate) – Active and well-supported ESP32 iGate with OLED and GPS support.
-* [LoRa\_APRS\_Tracker](https://github.com/lora-aprs/LoRa_APRS_Tracker) – Official ESP32-based tracker firmware.
+* [CA2RXU LoRa APRS Tracker](https://github.com/richonguzman/LoRa_APRS_Tracker) – LoRa APRS Tracker with Tx and Rx capabilities, Messages, Wx, Winlink and more.
+* [CA2RXU LoRa APRS iGate](https://github.com/richonguzman/LoRa_APRS_iGate) - LoRa APRS iGATE for ESP32 Based Board with Rx + Tx capabilities.
+* [LoRa\_APRS\_iGate](https://github.com/lora-aprs/LoRa_APRS_iGate) – This is a LoRa APRS iGate/Digi based on an ESP32.
+* [LoRa\_APRS\_Tracker](https://github.com/lora-aprs/LoRa_APRS_Tracker) – A LoRa based APRS tracker for ESP32 boards.
 * [LightLoRaAPRS](https://github.com/lightaprs/LightLoRaAPRS) – Unified firmware for LightAPRS/LightGateway boards.
 * [ESP32APRS_LoRa](https://github.com/nakhonthai/ESP32APRS_LoRa) - ESP32APRS LoRa is a APRS on LoRa network In that is implemented for Espressif ESP32,ESP32-S3,ESP32C3 processor.
-* [LoRa APRS SQ2CPA](https://flasher.sq2cpa.pl/) - LoRa APRS SQ2CPA firmware
+* [LoRa APRS SQ2CPA](https://flasher.sq2cpa.pl/) - LoRa APRS SQ2CPA firmware.
 
 ---
 
