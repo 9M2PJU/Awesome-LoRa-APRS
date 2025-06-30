@@ -11,6 +11,7 @@
 * [Software & Tools](#software--tools-section)
 * [APRS Passcode Generator](#aprs-passcode-generator)
 * [APRS Maps](#aprs-maps)
+* [Syslog](#syslog)
 * [Communities](#communities-section)
 * [Contributing](#contributing-section)
 
@@ -106,6 +107,7 @@
 * [9M2PJU APRS Maps](https://maps.hamradio.my)
 * [APRS.to](https://aprs.to)
 * [https://lora.ham-radio-op.net](https://lora.ham-radio-op.net/)
+* [MATT Syslog](https://lora-aprs.live/)
 
 ---
 
