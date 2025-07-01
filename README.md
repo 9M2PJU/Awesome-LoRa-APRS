@@ -63,7 +63,7 @@
 * **WiFi LoRa32 V3.2** – ESP32 with LoRa + GPS
 * **WiFi LoRa32 V3** – Earlier revision with similar features
   
-  Available from [Aliexpress](https://heltecautomation.aliexpress.com/store/3213115?spm=a2g0o.detail.0.0.65fa7d1a2dlOBT)
+  Available from [Aliexpress](https://heltec.org/)
 
 ### GPS Modules
 
