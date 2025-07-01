@@ -45,6 +45,7 @@
 * **TTGO T-DECK (LoRa + GPS)**
 * **TTGO T-ECHO**
 * **TTGO LoRa32 v2.1 (with GPS or TNC use)**
+  
   Available from [LilyGO](https://www.lilygo.cc)
 
 ### RAK Wireless Modules
@@ -53,6 +54,7 @@
 * **WisBlock RAK19007** – WisBlock base board
 * **WisBlock RAK19003** – Alternate WisBlock base board
 * **RAK12500** – u-blox ZOE-M8Q GPS module
+  
   Available from [RAK Wireless Store](https://store.rakwireless.com/)
 
 ### HELTEC Boards
@@ -60,6 +62,7 @@
 * **HELTEC Wireless Tracker**
 * **WiFi LoRa32 V3.2** – ESP32 with LoRa + GPS
 * **WiFi LoRa32 V3** – Earlier revision with similar features
+  
   Available from [Aliexpress](https://heltecautomation.aliexpress.com/store/3213115?spm=a2g0o.detail.0.0.65fa7d1a2dlOBT)
 
 ### GPS Modules
